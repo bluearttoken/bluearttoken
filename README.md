@@ -62,7 +62,8 @@ It is very easy to use, you can watch a user [experience video here. ](https://y
 * *Manual and regular “token burn” will be done every quarter.* 
 * *3% of each transaction is automatically sent to token holders. (Until it is listed on central exchanges)* 
 * *2% of every transaction is automatically transferred to charities. (Until it is listed on central exchanges)* 
-3. Which website will you use as the IDO platform? 
+
+### 3. Which website will you use as the IDO platform? 
 
 *The site name will be announced in IDO time, but we can say that we are in talks with Cointool.* 
 
