@@ -2,6 +2,8 @@
 
 # [BlueArt Token (BLA)](https://www.dextools.io/app/en/bnb/pair-explorer/0x704ebebb272952240bb55986936fd96676602006)
 
+![Views](https://komarev.com/ghpvc/?username=bluearttoken)
+
 ## Light Paper v1.0
 
 - Blockchain : BSC (BEP20 Token) 
