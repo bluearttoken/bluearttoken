@@ -1,6 +1,6 @@
 ![](Aspose.Words.8b704f71-d9f2-4182-a2af-3c9b6bb1434d.001.png)
 
-# BlueArt Token (BLA)
+# [BlueArt Token (BLA)](https://www.dextools.io/app/en/bnb/pair-explorer/0x704ebebb272952240bb55986936fd96676602006)
 
 ## Light Paper v1.0
 
