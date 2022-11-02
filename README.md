@@ -29,7 +29,7 @@ BlueArt  Token  (BLA);  It  is  the  official  cryptocurrency  of  the  currentl
 It works as a BEP20 token on Binance Smart Chain. It has a maximum supply of 88 million. It works in a deflationary structure. 2% of each transfer is automatically distributed to charities and 3% to wallets holding tokens. Non-routine planned burning will be applied (10%). Increasing the supply of $BLA is technically impossible as this feature has been canceled  in  the  smart  contract.  The  maximum  supply  will  never  increase,  but  will constantly decrease with regular manual burnings. 
 
 
-### Our current roadmap according to LightPaper v1. 
+## Our current roadmap according to LightPaper v1. 
 
 *(Note: Our roadmap will be updated by adding new targets and developments regularly.)* 
 
